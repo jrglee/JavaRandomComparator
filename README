@@ -1,1 +1,6 @@
-This file was created by IntelliJ IDEA 11.1.2 for binding GitHub repository
+How to run:
+
+JAVA_HOME=<path_to_java_home> ./run.sh
+
+On Mac OS:
+JAVA_HOME=/Library/Java/JavaVirtualMachines/1.7.0.jdk/Contents/Home ./run.sh
